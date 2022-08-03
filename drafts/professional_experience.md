@@ -6,7 +6,7 @@
 - Tutored one middle schooler in geometry. 
 
 
-## Computational Biology Laboratory Research Assistant (Jan 2016 - Dec 2016) 
+## [Computational Biology Laboratory Research Assistant](https://www.wm.edu/as/appliedscience/index.php) (Jan 2016 - Dec 2016) 
 - Prepared and presented two professional PowerPoints for graduate research advisor.
 - Derived a system of coupled ODEs describing receptor allostery as a Markov process. 
 - Validated *in sito* whether derived ODEs agreed with theoretical predictions made in biokinetics using MATLAB. 
