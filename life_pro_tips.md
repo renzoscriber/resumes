@@ -4,6 +4,8 @@
 
 - [Power Words](https://smartblogger.com/power-words/ )
 - [Jeff Su YouTube Channel](https://www.youtube.com/c/JeffSu/featured)
+- [Resume Summary Examples](https://zety.com/blog/resume-summary)
+- [5 Resume Summary Examples: How-To Guide](https://www.indeed.com/career-advice/resumes-cover-letters/resume-summary-examples)
 
 ## CJ's Freelancing Adivce
 
