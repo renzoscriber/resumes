@@ -7,17 +7,19 @@
 - [ ] [How To Make a LinkedIn Profile With No Working Experience (2022) ](https://www.youtube.com/watch?v=wYtlRgECrWE)
 
 ### Urgent
+- [x] Reactivate LinkedIn profile
+- [ ] Clean up LinkedIn profile
+- [ ] [Indeed skills assessment](https://my.indeed.com/resume/assessments)
+
+### Less Urgent
 - [ ] Chronological resume  
   - [ ] Add content from undergraduate syllabus (blue folder)
 - [ ] Functional resume
 - [ ] CV
-- [ ] Clean up LinkedIn profile
-- [ ] Reactivate LinkedIn profile
-
-### Less Urgent
+- [ ] Upload your math content to instagram
 - [ ] Update personal website
 - [ ] Updatae UpWork profile
-- [ ] Upload educational content to instagram
+
 
 
 ## Links
