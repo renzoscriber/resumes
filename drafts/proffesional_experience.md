@@ -1,4 +1,4 @@
-# Past Experience
+# Professional Experience 
 ## Graduate Research Assistant
 - Prepared and presented two PowerPoints for graduate research advicor.
 - Derived a system of coupled ODEs describing receptor allostery as a Markov process. 
