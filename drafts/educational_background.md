@@ -2,6 +2,7 @@
 
 ## Masters of Science  
 College of William and Mary   
+Department: Applied Science
 Concentration: Computational biology    
 
 
