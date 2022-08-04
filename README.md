@@ -4,6 +4,7 @@
 
 ### Videos to Watch
 - [ ] [Write an Incredible Resume: 5 Golden Rules](https://www.youtube.com/watch?v=Tt08KmFfIYQ&list=PLo-kPya_Ww2x1PzbqzmPPC5v7fCYhrK4z&index=2)
+- [ ] [How to Make a Great Linkedin Profile - TIPS + EXAMPLES](https://www.youtube.com/watch?v=zd4ALKv8Das)
 - [ ] [How To Make a LinkedIn Profile With No Working Experience (2022) ](https://www.youtube.com/watch?v=wYtlRgECrWE)
 
 ### Urgent
