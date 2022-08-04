@@ -13,7 +13,7 @@
 
 
 ## Memory & Cognition Lab Research Leader (Aug 2014 - May 2015) 
-- Lead a research group of four undergraduates for research adivsor.
+- Lead a research group of four undergraduates for research advisor.
 - Prepared and presented six conference posters. 
 
 
