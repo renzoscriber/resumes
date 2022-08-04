@@ -12,10 +12,12 @@
 - [ ] [Indeed skills assessment](https://my.indeed.com/resume/assessments)
 
 ### Less Urgent
+- [ ] Compile list of "strong adjectives(?)"
 - [ ] Chronological resume  
   - [ ] Add content from undergraduate syllabus (blue folder)
 - [ ] Functional resume
 - [ ] CV
+- [ ] Upload bibtex file of conference citations 
 - [ ] Upload your math content to instagram
 - [ ] Update personal website
 - [ ] Updatae UpWork profile
